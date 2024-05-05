@@ -1,0 +1,1 @@
+This is day 62 in which i learn introduction of typescript and complete my installation.
